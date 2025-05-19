@@ -6,6 +6,7 @@
 
 > Genre: [[Programming]]
 
+## Basic info: [[JS BASICS]]
 ## async js: [[JS ASYNC AND SYNC|ASYNC JS]]
 ## promises : [[JS promises & classes]]
 ---
