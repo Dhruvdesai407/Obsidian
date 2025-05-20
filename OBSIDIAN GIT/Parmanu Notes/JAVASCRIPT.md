@@ -9,5 +9,5 @@
 ## Basic info: [[JS BASICS]]
 ## async js: [[JS ASYNC AND SYNC|ASYNC JS]]
 ## promises : [[JS promises & classes]]
-## sheryians js part 2 : [[JS js basics]]
+## sheryians js part 2 : [[JS BASICS 2]]
 ---
