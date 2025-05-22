@@ -98,3 +98,75 @@ An instance of a class or a literal value that conforms to a type or interface, 
 `const myBoat = new Boat();`
 `console.log(myBoat.startEngine()); // Output: Engine started!`
 `console.log(myBoat.move());        // Output: Boat sails on water!`
+# Static & its attributes with interface, class, object example :
+`// Interface defining the structure of a Book`
+`interface Book {`
+  `title: string;`
+  `author: string;`
+  `pages: number;`
+  `getSummary(): string;`
+`}`
+
+
+`// Class implementing the Book interface`
+`class LibraryBook implements Book {`
+  `// Static attribute to track total number of books created`
+  `static totalBooks: number = 0;`
+
+  `// Instance properties`
+  `title: string;`
+  `author: string;`
+  `pages: number;`
+
+  `// Constructor`
+  `constructor(title: string, author: string, pages: number) {`
+    `this.title = title;`
+    `this.author = author;`
+    `this.pages = pages;`
+    `// Increment static counter when a new book is created`
+    `LibraryBook.totalBooks++;`
+  `}`
+
+  `// Instance method required by the Book interface`
+  `getSummary(): string {`
+    `return ${this.title} by ${this.author}, ${this.pages} pages;`
+  `}`
+
+  `// Static method to get the total number of books`
+  `static getTotalBooks(): string {`
+    `return Total books in library: ${LibraryBook.totalBooks};`
+  `}`
+`}`
+
+`// Creating objects (instances) of the class`
+`const book1 = new LibraryBook("The Hobbit", "J.R.R. Tolkien", 310);`
+`const book2 = new LibraryBook("1984", "George Orwell", 328);`
+
+`// Using instance methods and properties`
+`console.log(book1.getSummary()); // Output: The Hobbit by J.R.R. Tolkien, 310 pages`
+`console.log(book2.getSummary()); // Output: 1984 by George Orwell, 328 pages`
+
+`// Using static attribute and method`
+`console.log(LibraryBook.getTotalBooks()); // Output: Total books in library: 2`
+# Generics :
+`function getValue<K, V>(key: K, valuel: V, value2: V): V {` 
+	`if (key) {` 
+		`return valuel;` 
+	`}` 
+	`return value2` 
+`}` 
+`const n1: number = 1;` 
+`Const n2: number = 2` 
+`getValue<string, number>("hello", n1, n2)`
+
+# Types Aliases :
+`type Coordinate = [number, number]` 
+	`function compareCoords(` 
+	`pl: Coordinate,` 
+	`p2: Coordinate` 
+`): Coordinate {` 
+	`return [p1[0], p2[1]]` 
+`}` 
+`const coords: [number, number] [] = [];`
+
+

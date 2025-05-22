@@ -1,28 +1,9 @@
+ ###### Tags:  #CSS #Webdev #revision #cheatsheet #Programming 
+###### Priority : #high
 
-# CSS 
-## Tags:  #CSS #Webdev #revision #cheatsheet #Programming 
-## Priority : #high
-
-## Genre: [[Programming]]
-
-
-> For it prerequisites check out: 
-
-## Key Ideas & Details
-
-* **Idea 1:** {{idea-1}}
-    * *Supporting Detail/Example:* {{detail-1}}
-    * **Related Notes:** 
-* **Idea 2:** {{idea-2}}
-    * *Supporting Detail/Example:* {{detail-2}}
-    * **Related Tags:** 
-* ... (Add more Key Ideas and Details as needed)
-
-
-
-
-
-
+###### Genre: [[Programming]]
+# CSS & HTML & JS IDEAS :
+- 
 
 
 ## Notes/Source:
