@@ -45,4 +45,25 @@
 # Any (ignores type checking) :
 `let x: any = 1;`
 `x.length;`  ==no error==
-
+# Unknown (forces to check the type) :
+If used in if, else if . The Unknown type register it to the respective type assigned in if or else if statements, but else is incorrect as it doesn't try to assign any type. ==Any== does not bothers with type, while ==Unknown== forces type checking b4 execution !
+`function process Feedback(input: unknown): void {` 
+	`if (typeof input 'string') {` 
+		`console.log(Processing text: $(input));` 
+		`// Handle string-specific logic` 
+	`} else if (typeof input 'number') {` 
+		`console.log('Processing rating: $(input);` 
+		`// Handle number-specific logic` 
+	`} else if (input instanceof Blob) {` 
+		`console.log('Processing file');` 
+		`// Handle Blob-specific logic` 
+	`} else {` 
+		`console.log('Unsupported type of input');` 
+`}` 
+`// This ensures that operations are safe and based on the actual type of input` 
+`process Feedback("Great service!");             // Correctly identified as string` 
+`processFeedback(5);          // Correctly identified as number` 
+`process Feedback(new Blob());         // Correctly identified as Blob`
+# Optional Chaining and Bang :
+`const arr = [[{name: "tim"}]]` 
+`const el arr.pop()?.pop()?.name` ==? checks for undefined then moves forward, while ! ignores undefined==
