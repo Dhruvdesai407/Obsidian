@@ -22,7 +22,7 @@
 ***this means that a ==tuple with number and array of number is nested== within an ==array!==***
 # Literal (literally just assign what you need!) :
 `let direction: "north | "south" | "east" | "west" ;`
-`direction = "north" ; `
+`direction = "north" ;` 
 
 # Enum (diy string to int or vice-versa relationship) :
 ## Numerical enums :
