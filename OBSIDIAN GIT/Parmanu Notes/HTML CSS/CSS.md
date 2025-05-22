@@ -6,7 +6,7 @@
 ## Genre: [[Programming]]
 
 
-> For it prerequisites check out: [[HTML| HTML REVISION]]
+> For it prerequisites check out: 
 
 ## Key Ideas & Details
 
