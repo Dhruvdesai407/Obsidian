@@ -168,5 +168,46 @@ An instance of a class or a literal value that conforms to a type or interface, 
 	`return [p1[0], p2[1]]` 
 `}` 
 `const coords: [number, number] [] = [];`
+# Type Guards :
+## typeof
+## instanceof
+# Discriminated union ( Tagged type) :
+`type Log = Warning | Info | Succes`
+`interface Warning {`
+	`type: 'warning'`
+	`msg: string;`
+`}`
+`interface Info {`
+	`type : 'info'`
+	`text: string`
+`}`
+`interface Success {`
+	`type: 'success'`
+	`message: string;`
+`}`
+`fucntion handleMsg(log: Log) {`
+	`switch(log.type) {`
+		`case "warning":`
+			`console.log(log.msg)`
+			`break;`
+		`case "info":`
+			`console.log(log.m)`
+			`break;`
+		`case "success;`
+			`break;`
+	`}`
+`}`
+# Utility Types :
 
-
+1.  ==Partial== : takes an existing type and makes all its properties optional.
+2. ==Readonly== : is used to create a new type where all properties are readonly, meaning they cannot be modified once assigned a value.
+3. ==Record== : helps define a type with property names such as id and map the values to the type of the data.
+4. ==Pick== : allows you to create new types by picking a set of properties from an existing type.
+5. ==Omit== : opposite of ==Pick== .
+# Modules :
+## Export :-
+2 ways to export fn() from a file. 
+1. add ==export== b4 function, like `export function add(x:number, y:number) : number {}`.
+2. at the end, ==export== {fn()name, fn2()name}
+## Import :-
+==import {add,sub} from "./util"==
