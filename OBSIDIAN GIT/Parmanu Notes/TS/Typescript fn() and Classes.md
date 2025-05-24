@@ -211,3 +211,7 @@ An instance of a class or a literal value that conforms to a type or interface, 
 2. at the end, ==export== {fn()name, fn2()name}
 ## Import :-
 ==import {add,sub} from "./util"==
+## i don't fking understand default export !
+# Namespaces : 
+allows you to organize code in to different blocks within an individual file.
+
