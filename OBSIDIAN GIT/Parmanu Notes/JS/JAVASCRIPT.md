@@ -10,4 +10,6 @@
 ## async js: [[JS ASYNC AND SYNC|ASYNC JS]]
 ## promises : [[JS promises & classes]]
 ## sheryians js part 2 : [[JS BASICS 2]]
+
+## JS DOM : [[JS DOM]]
 ---
