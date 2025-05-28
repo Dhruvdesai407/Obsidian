@@ -5,7 +5,7 @@
 ## Core Concept (One Sentence Summary)
 
 > Genre: [[Programming]]
-
+[[REACT]] [[TYPESCRIPT]] 
 ## Key Ideas & Details
 
 * **Idea 1:** {{idea-1}}
