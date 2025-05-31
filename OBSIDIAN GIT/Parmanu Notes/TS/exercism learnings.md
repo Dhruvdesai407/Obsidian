@@ -96,4 +96,7 @@ export class DnDCharacter {
   `// Check if the size of the Set is 26.`
   `return foundLetters.size === 26;`
 `}`
+### Bob, const fn() and ` /[a-zA-Z]/.test(str);` :
+
+
 

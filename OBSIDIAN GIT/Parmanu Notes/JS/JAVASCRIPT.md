@@ -12,4 +12,5 @@
 ## sheryians js part 2 : [[JS BASICS 2]]
 
 ## JS DOM : [[JS DOM]]
+## JS basics for react : [[JS React basics]]
 ---
