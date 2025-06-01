@@ -9,4 +9,6 @@ Static arr not avail in .py .js . Static arr ==can't add new value and address==
 | insert / remove end (assuming empty space at end or atleast have one element at the end) | O(1)            |
 | insert middle                                                                            | O(n)            |
 | remove middle                                                                            | O(n)            |
+![[Pasted image 20250601132151.png]]
+
 
