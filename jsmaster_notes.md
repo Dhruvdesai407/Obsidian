@@ -1,5 +1,3 @@
-This document provides a comprehensive summary of Kyle Simpson's "Deep JS Foundations" course, designed to help you understand the core mechanics of JavaScript. It aims to be detailed enough for you to grasp the fundamental concepts without needing to watch the original lectures, while still being concise and efficient for revision, making it ideal for a GitHub repository.
-
 -----
 
 # Deep JS Foundations - Course Summary
