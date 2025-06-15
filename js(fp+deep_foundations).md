@@ -1,8 +1,9 @@
 -----
 
 # Deep JS Foundations + Function Programming
+## [Functional Programming in JavaScript](#functional-programming-in-javascript---engaging--memorable-guide)
 
-This summary provides a deep dive into JavaScript's core concepts, emphasizing understanding *how* the language works to write more effective and resilient code. It covers Type Coercion, `this` Binding, Prototypes, and Scope, reflecting the course's focus on foundational knowledge.
+
 
 ## Table of Contents
 
