@@ -7,22 +7,22 @@
 
 ## Table of Contents
 
-1.  [I. Types](#i-types)
-    * [Primitive Types](#primitive-types)
-    * [Special Values](#special-values)
-    * [Abstract Operations (Coercion)](#abstract-operations-coercion)
-    * [Equality (`==` vs. `===`)](#equality---vs)
-    * [TypeScript, Flow, etc.](#typescript-flow-etc)
-2.  [II. Objects (Oriented)](#ii-objects-oriented)
-    * [`this` Keyword](#this-keyword)
-    * [`class { }` (ES6 Classes)](#class---es6-classes)
-    * [Prototypes](#prototypes)
-    * [OO vs. OLOO (Object-Oriented vs. Objects Linked to Other Objects)](#oo-vs-oloo-object-oriented-vs-objects-linked-to-other-objects)
-3.  [III. Scope](#iii-scope)
-    * [Nested Scope](#nested-scope)
-    * [Hoisting](#hoisting)
-    * [Closure](#closure)
-    * [Modules](#modules)
+### 1.  [I. Types](#i-types)
+#####    * [Primitive Types](#primitive-types)
+#####    * [Special Values](#special-values)
+#####    * [Abstract Operations (Coercion)](#abstract-operations-coercion)
+#####    * [Equality (`==` vs. `===`)](#equality---vs)
+#####    * [TypeScript, Flow, etc.](#typescript-flow-etc)
+### 2.  [II. Objects (Oriented)](#ii-objects-oriented)
+#####    * [`this` Keyword](#this-keyword)
+#####    * [`class { }` (ES6 Classes)](#class---es6-classes)
+#####    * [Prototypes](#prototypes)
+#####    * [OO vs. OLOO (Object-Oriented vs. Objects Linked to Other Objects)](#oo-vs-oloo-object-oriented-vs-objects-linked-to-other-objects)
+### 3.  [III. Scope](#iii-scope)
+#####    * [Nested Scope](#nested-scope)
+#####    * [Hoisting](#hoisting)
+#####    * [Closure](#closure)
+#####    * [Modules](#modules)
 -----
 
 ## I. Types
@@ -634,13 +634,13 @@ Modules are mechanisms for organizing and encapsulating code, promoting better c
 
 ## Table of Contents
 
-1.  [I. Higher-Order Functions (HOFs) & Callbacks](#i-higher-order-functions-hofs--callbacks)
-2.  [II. `map`, `filter`, `reduce` & The Power of Chaining](#ii-map-filter-reduce--the-power-of-chaining)
-3.  [III. Function Composition: The Ultimate Data Pipeline](#iii-function-composition-the-ultimate-data-pipeline)
-4.  [IV. Pure Functions & Immutability: The Bedrock of Predictability](#iv-pure-functions--immutability-the-bedrock-of-predictability)
-5.  [V. Closure: Functions with a Persistent Memory](#v-closure-functions-with-a-persistent-memory)
-6.  [VI. Partial Application & Currying: Mastering Function Arity](#vi-partial-application--currying-mastering-function-arity)
-7.  [VII. Core Benefits of FP: Why Embrace This Paradigm?](#vii-core-benefits-of-fp-why-embrace-this-paradigm)
+##### 1.  [I. Higher-Order Functions (HOFs) & Callbacks](#i-higher-order-functions-hofs--callbacks)
+##### 2.  [II. `map`, `filter`, `reduce` & The Power of Chaining](#ii-map-filter-reduce--the-power-of-chaining)
+##### 3.  [III. Function Composition: The Ultimate Data Pipeline](#iii-function-composition-the-ultimate-data-pipeline)
+##### 4.  [IV. Pure Functions & Immutability: The Bedrock of Predictability](#iv-pure-functions--immutability-the-bedrock-of-predictability)
+##### 5.  [V. Closure: Functions with a Persistent Memory](#v-closure-functions-with-a-persistent-memory)
+##### 6.  [VI. Partial Application & Currying: Mastering Function Arity](#vi-partial-application--currying-mastering-function-arity)
+##### 7.  [VII. Core Benefits of FP: Why Embrace This Paradigm?](#vii-core-benefits-of-fp-why-embrace-this-paradigm)
 -----
 
 ## I. Higher-Order Functions (HOFs) & Callbacks
