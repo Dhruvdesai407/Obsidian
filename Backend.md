@@ -8,7 +8,7 @@
 
 ## 🧭 **TABLE OF CONTENTS (Click to Jump\! 🖱️)**
 
-  * [🌐 Node.js Core: Your Backend's Pulsating Heart\! ❤️‍🔥](#nodejs-core-your-backends-pulsating-heart-)
+  * [🌐 Node.js Core: Your Backend's Pulsating Heart\! ❤️‍🔥]([#nodejs-core-your-backends-pulsating-heart-](https://github.com/Dhruvdesai407/Obsidian/blob/main/Backend.md#-nodejs-core-your-backends-pulsating-heart-%EF%B8%8F))
       * [**Node.js: Your JavaScript's Freedom Fighter\!** 🚀](#nodejs-your-javascripts-freedom-fighter-)
       * [**Why Node.js is YOUR Secret Weapon (Interviewers WILL Drill You\!):** 🎯](#why-nodejs-is-your-secret-weapon-interviewers-will-drill-you)
       * [**Node's DNA: Core Philosophy & Features (Understand the VIBE\!):** 🧬](#nodes-dna-core-philosophy--features-understand-the-vibe)
