@@ -24,7 +24,7 @@ Please try this updated version\! I'm confident these links will now work exactl
 
 ## 🧭 **TABLE OF CONTENTS (Click to Jump\! 🖱️)**
 
-  * [🌐 Node.js Core: Your Backend's Pulsating Heart\! ❤️‍🔥](https://www.google.com/search?q=%23nodejs-core-your-backends-pulsating-heart-)
+  * [🌐 Node.js Core: Your Backend's Pulsating Heart\! ❤️‍🔥](#🌐-Node.js-Core:-Your-Backend's-Pulsating-Heart\!-❤️‍🔥)
       * [**Node.js: Your JavaScript's Freedom Fighter\!** 🚀](https://www.google.com/search?q=%23nodejs-your-javascripts-freedom-fighter-)
       * [**Why Node.js is YOUR Secret Weapon (Interviewers WILL Drill You\!):** 🎯](https://www.google.com/search?q=%23why-nodejs-is-your-secret-weapon-interviewers-will-drill-you)
       * [**Node's DNA: Core Philosophy & Features (Understand the VIBE\!):** 🧬](https://www.google.com/search?q=%23nodes-dna-core-philosophy--features-understand-the-vibe)
